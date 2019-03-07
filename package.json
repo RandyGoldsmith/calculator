@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "creating calculator using nodejs",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandyGoldsmith/calculator.git"
+  },
+  "author": "Randy Goldsmith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RandyGoldsmith/calculator/issues"
+  },
+  "homepage": "https://github.com/RandyGoldsmith/calculator#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
